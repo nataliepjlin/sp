@@ -1,0 +1,12 @@
+[submodule "HW1: mulitplexing, lseek, write, read through fd"]
+	path = HW1: mulitplexing, lseek, write, read through fd
+	url = https://github.com/nataliepjlin/sp-hw1
+[submodule "HW2: pipe, fork, hard links"]
+	path = HW2: pipe, fork, hard links
+	url = https://github.com/nataliepjlin/sp-hw2
+[submodule "HW3: Implementing a user-level thread library in C. Involves aspects of thread management, including creating, scheduling, and synchronizing threads."]
+	path = HW3: Implementing a user-level thread library in C. Involves aspects of thread management, including creating, scheduling, and synchronizing threads.
+	url = https://github.com/nataliepjlin/sp-hw3
+[submodule "HW4: Implement a thread pool with pthread to construct a matrix multiplication machine which utilizes multiprogramming to speed up computation."]
+	path = HW4: Implement a thread pool with pthread to construct a matrix multiplication machine which utilizes multiprogramming to speed up computation.
+	url = https://github.com/nataliepjlin/sp-hw4
